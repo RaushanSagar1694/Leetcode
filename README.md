@@ -1,6 +1,6 @@
 # Leetcode
 
-This repository contains my solutions to various LeetCode problems, covering Data Structures and Algorithms (DSA) concepts. The solutions are optimized, well-structured, and written in multiple programming languages where applicable
+This repository contains my solutions to various LeetCode problems, covering Data Structures and Algorithms (DSA) concepts.
 
 📌 Features
   🚀 Solutions to a wide range of problems (Easy, Medium, Hard).
